@@ -1,0 +1,12 @@
+D:\VB.NET 60121111-3\Coffeeshop\Coffeeshop\bin\Debug\Coffeeshop.exe.config
+D:\VB.NET 60121111-3\Coffeeshop\Coffeeshop\bin\Debug\Coffeeshop.exe
+D:\VB.NET 60121111-3\Coffeeshop\Coffeeshop\bin\Debug\Coffeeshop.pdb
+D:\VB.NET 60121111-3\Coffeeshop\Coffeeshop\bin\Debug\Coffeeshop.xml
+D:\VB.NET 60121111-3\Coffeeshop\Coffeeshop\obj\Debug\Coffeeshop.vbprojAssemblyReference.cache
+D:\VB.NET 60121111-3\Coffeeshop\Coffeeshop\obj\Debug\Coffeeshop.Resources.resources
+D:\VB.NET 60121111-3\Coffeeshop\Coffeeshop\obj\Debug\Coffeeshop.vbproj.GenerateResource.cache
+D:\VB.NET 60121111-3\Coffeeshop\Coffeeshop\obj\Debug\Coffeeshop.exe
+D:\VB.NET 60121111-3\Coffeeshop\Coffeeshop\obj\Debug\Coffeeshop.xml
+D:\VB.NET 60121111-3\Coffeeshop\Coffeeshop\obj\Debug\Coffeeshop.pdb
+D:\VB.NET 60121111-3\Coffeeshop\Coffeeshop\obj\Debug\Coffeeshop.MainUI.resources
+D:\VB.NET 60121111-3\Coffeeshop\Coffeeshop\obj\Debug\Coffeeshop.login.resources
